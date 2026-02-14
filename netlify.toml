@@ -2,5 +2,3 @@
   for = "/*"
   [headers.values]
     Content-Security-Policy = "default-src 'self' https://*.googleapis.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://*.googleapis.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://*.googleusercontent.com https://*.googleapis.com; connect-src 'self' https://*.googleapis.com;"
-    X-Content-Type-Options = "nosniff"
-    X-Frame-Options = "DENY"
