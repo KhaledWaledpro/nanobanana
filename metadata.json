@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Image Gen",
+  "description": "A powerful AI image generator using the Gemini Nano Banana model (gemini-2.5-flash-image). Features a modern interface for creating stunning visuals from text prompts.",
+  "requestFramePermissions": []
+}
